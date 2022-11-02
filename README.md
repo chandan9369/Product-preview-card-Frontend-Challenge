@@ -10,11 +10,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -29,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![card-preview](./screenshot.jpg)
+![card-preview](./design/desktop-preview.jpg)
 
 
 
